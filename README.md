@@ -54,6 +54,15 @@ For example, to run data augmentation on `snips` dataset,
     pages = "18--26",
 }
 ```
+
+## Contact
+
+Please reachout to kuvrun@amazon.com for any questions related to this code. 
+
+## License
+
+This project is licensed under the Creative Common Attribution Non-Commercial 4.0 license.
+
    
 
 
