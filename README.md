@@ -1,4 +1,4 @@
-# PretrainedDataAugment
+# Data Augmentation using Pre-trained Transformer Models
 
 Code associated with the [Data Augmentation using Pre-trained Transformer Models](https://www.aclweb.org/anthology/2020.lifelongnlp-1.3.pdf) paper
 
